@@ -10,4 +10,4 @@ For now the project has a all the elements in the prototype plus the following u
 
 -A motor driver \
 -A buzzer driver \
--User Pushbutton 1 \
+-User Pushbutton 1
